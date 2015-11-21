@@ -31,3 +31,7 @@ data-mask
 data-mask-placeholder (optative)
 
 More information in https://github.com/digitalBush/jquery.maskedinput
+
+### Bower
+
+https://libraries.io/bower/angular-jquery-maskedinput
